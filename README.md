@@ -8,7 +8,7 @@ I am also a freelance computer technician and have worked with hundreds of busin
 
 private let stack: [String] = ["Swift", "SwiftUI" "Kotlin", "Javascript", "HTML", "CSS", "Xcode", "Android Studio", "Visual Studio"]
 <h1 >☕️ Wanna chat?</h1>
-👉 @ me on Twitter about any of the following!
+👉 @ me on X about any of the following!
 
 - Software 👨🏻‍💻
 - Video Games 👾
